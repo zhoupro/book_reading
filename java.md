@@ -7,7 +7,14 @@
   - [泛型解析](https://github.com/whx123/JavaHome/blob/master/Java基础学习/泛型解析.md)
 - [ ] 代码
 
+
+### lambda
+- [ ] 文章
+  - [Java Lambda表达式](https://objcoding.com/2019/03/04/lambda/)
   
+### stream
+- [ ] 文章
+  - [玩转Java stream](https://zhuanlan.zhihu.com/p/463215754)
 ##  Spring
 
 ##  Spring Boot
